@@ -1,10 +1,10 @@
 <?php
 
 //defining variables for connection
-$host="localhost";
-$dbname="FinalExam";
-$dbuname= "krishna";
-$dbpass="$12@#as@mk";
+$host="";
+$dbname="";
+$dbuname= "";
+$dbpass="";
 
 require_once "functions.php";
 
